@@ -1,29 +1,51 @@
-<!-- GitHub Profile README for stackwithsameers -->
+<!-- Official README for StackWithSameers GitHub Organization -->
 
-<h1 align="center">👋 Welcome to StackWithSameers</h1>
+<h1 align="center">🚀 StackWithSameers</h1>
+<p align="center">
+  <strong>Innovative SaaS & AI Solutions | Built for Developers, Creators & Teams</strong><br/>
+  Driving the future of web & AI experiences through modern, open-source, and commercial tools.
+</p>
 
 <p align="center">
-  <b>Developer • Creator • AI Builder</b><br/>
-  Building open-source tools and next-gen AI-powered products.
+  <a href="https://sameeransariportfolio.netlify.app/"><strong>🌐 Visit Website</strong></a> •
+  <a href="mailto:hello@stackwithsameers.com"><strong>📩 Contact Us</strong></a> •
+  <a href="https://www.linkedin.com/company/stackwithsameers"><strong>🔗 LinkedIn</strong></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🏢 About StackWithSameers
 
-- 🧑‍💻 I'm Sameer — a full-stack software engineer & AI tinkerer
-- ⚙️ Currently building **SamAI Studio** – a creative AI image generation platform
-- 🏗️ Passionate about design systems, developer tools, and AI integration
-- 🌱 Currently learning Rust, Next.js 14, and building full-stack SaaS workflows
-- 🧩 Exploring micro-frontends and prompt engineering
+**StackWithSameers** is a modern software company specializing in building:
+
+- 🧠 **AI-powered applications** for creativity, productivity, and automation  
+- ⚙️ **Developer-first tools** that simplify full-stack web development  
+- 📦 **Open-source utilities** and SaaS templates that reduce time-to-market  
+
+Founded in 2024, we operate at the intersection of AI, design, and developer experience — with a mission to empower the next generation of builders.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ What We Build
+
+### 🧪 AI Products
+- **SamAI Studio** – AI image generation platform for creatives (powered by OpenAI, Replicate)
+- **PromptBox** – Advanced prompt manager for GPT, Claude, and other LLMs *(coming soon)*
+
+### 🧰 Dev Tools
+- **React UI Systems** – Fast, accessible component libraries built on TailwindCSS
+- **SaaS Boilerplates** – End-to-end full-stack templates using Next.js, Firebase, Stripe
+
+### 🌐 Micro-SaaS Experiments
+- Niche platforms designed to solve very specific user problems, deployed fast and lean.
+
+---
+
+## 🧱 Tech Stack
 
 ```bash
-Frontend:   React ⚛️ · TypeScript · Vite · TailwindCSS · HTML5  
+Frontend:   Next.js 14 · React · TypeScript · TailwindCSS · Vite  
 Backend:    Node.js · Express · MongoDB · Firebase · REST APIs  
-Dev Tools:  Git · GitHub · Bun · Prettier · ESLint · Postman  
-AI/ML:      OpenAI API · Replicate · Hugging Face  
-CI/CD:      GitHub Actions · Netlify · Vercel · Docker (learning)
+Infra:      Vercel · Netlify · Docker (WIP) · GitHub Actions  
+AI:         OpenAI API · Replicate · Hugging Face · LangChain  
+Tooling:    Git · Bun · Prettier · ESLint · Postman  
